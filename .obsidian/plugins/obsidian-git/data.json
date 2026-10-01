@@ -1,0 +1,15 @@
+{
+  "commitMessage": "vault backup: {{date}}",
+  "autoSaveInterval": 10,
+  "autoPullInterval": 10,
+  "autoBackupAfterFileChange": false,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "showStatus": true,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "gitPath": "",
+  "customMessageOnAutoBackup": false,
+  "autoBackupInterval": 10
+}
