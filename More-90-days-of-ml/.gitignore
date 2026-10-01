@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Cloud & Credentials
+*.pem
+*.key
+.env
