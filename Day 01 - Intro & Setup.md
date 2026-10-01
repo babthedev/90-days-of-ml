@@ -15,7 +15,7 @@
   - [ ] Assignment list
   - [ ] Capstone deadline
 - [ ] Set up Google Colab account
-- [ ] Set up Kaggle account
+- [x] Set up Kaggle account
 - [x] Initialize [[LEARNING|LEARNING.md]]
 - [ ] Record the cohort end date at the top of [[LEARNING|LEARNING.md]]
 
