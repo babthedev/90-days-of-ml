@@ -1,9 +1,0 @@
-# Obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
-.trash/
-
-# Private notes & drafts
-private/
-*.tmp
